@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite src",
     "build": "vite build",
-    "start": "vite preview --port 5000",
+    "start": "vite src",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },

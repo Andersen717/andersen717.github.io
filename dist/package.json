@@ -1,6 +1,7 @@
 {
   "name": "portfolio-template",
   "version": "2.0.0",
+  "homepage": "http://Andersen717.github.io/portfolio",
   "description": "portfolio for Andersen",
   "main": "index.js",
   "scripts": {

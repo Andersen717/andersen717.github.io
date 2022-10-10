@@ -1,7 +1,7 @@
 const path = require('path');
 module.exports = {
   root: 'src',
-  base: '/portfolio/',
+  base: '/',
   build: {
     outDir: '../dist'
   },

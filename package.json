@@ -1,7 +1,7 @@
 {
   "name": "portfolio-template",
   "version": "2.0.0",
-  "description": "portfolio for Sergey Kivi",
+  "description": "portfolio for Bruno Marić",
   "main": "index.js",
   "scripts": {
     "dev": "vite src",
@@ -9,7 +9,7 @@
     "start": "vite preview"
   },
   "keywords": [],
-  "author": "Sergey Kivi",
+  "author": "Bruno Marić",
   "license": "MIT",
   "dependencies": {
     "@popperjs/core": "^2.11.5",
